@@ -1,0 +1,3 @@
+EAR_THRESHOLD = 0.2
+CAMERA_INDEX = 0
+WINDOW_NAME = "Driver Monitoring System"

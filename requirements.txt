@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+playsound==1.2.2
+tk
